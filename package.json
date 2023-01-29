@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "Этот проект был создан при помощи Parcel.\r Дополнительных возможностей [обратись к документации](https://parceljs.org/).",
-  "main": "index.js",
+  
   "homepage": "https://vladimirzimin.github.io/searchimages/",
   "scripts": {
     "dev": "parcel src/*.html",
