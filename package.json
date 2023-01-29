@@ -1,0 +1,31 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Этот проект был создан при помощи Parcel.\r Дополнительных возможностей [обратись к документации](https://parceljs.org/).",
+  "main": "index.js",
+  "homepage": "https://vladimirzimin.github.io/searchimages/",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /testLib/",
+    "server": "json-server --watch db.json -p 4040 -d 300"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirzimin/testLib.git"
+  },
+  "keywords": [],
+  "author": "Vladimir Zimin <zimin.frontend@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-plugin-nuke-dist": "^1.0.1",
+    "posthtml-include": "^1.7.4",
+    "prettier": "2.8.3",
+    "sass": "^1.57.1"
+  },
+  "bugs": {
+    "url": "https://github.com/vladimirzimin/testLib/issues"
+  }
+}
