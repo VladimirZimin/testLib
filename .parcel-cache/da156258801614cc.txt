@@ -276,7 +276,7 @@
 62D:\IT\MyWORK\my-projects\testLib\node_modules\for-in\README.md133194628180054084 0
 70D:\IT\MyWORK\my-projects\testLib\node_modules\yaml\dist\test-events.js133194628311305437 0
 103D:\IT\MyWORK\my-projects\testLib\node_modules\deasync\node_modules\node-addon-api\napi-inl.deprecated.h133194628267924326 0
-45D:\IT\MyWORK\my-projects\testLib\package.json133194634172421918 0
+45D:\IT\MyWORK\my-projects\testLib\package.json133194635700498321 0
 66D:\IT\MyWORK\my-projects\testLib\node_modules\resolve\lib\async.js133194628275485950 0
 83D:\IT\MyWORK\my-projects\testLib\node_modules\serialize-to-js\lib\internal\utils.js133194628253872121 0
 127D:\IT\MyWORK\my-projects\testLib\node_modules\class-utils\node_modules\is-accessor-descriptor\node_modules\kind-of\package.json133194628175286666 0

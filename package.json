@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "Этот проект был создан при помощи Parcel.\r Дополнительных возможностей [обратись к документации](https://parceljs.org/).",
-  
+  "main": "index.js",
   "homepage": "https://vladimirzimin.github.io/searchimages/",
   "scripts": {
     "dev": "parcel src/*.html",
@@ -18,14 +18,20 @@
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
+    "cssnano": "^4.1.11",
     "parcel": "^2.8.3",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
-    "parcel-plugin-nuke-dist": "^1.0.1",
+    "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4",
     "prettier": "2.8.3",
-    "sass": "^1.57.1"
+    "sass": "^1.57.1",
+    "typescript": "^4.9.4"
   },
   "bugs": {
     "url": "https://github.com/vladimirzimin/testLib/issues"
+  },
+  "dependencies": {
+    "imagesloaded": "^5.0.0",
+    "masonry-layout": "^4.2.2"
   }
 }
